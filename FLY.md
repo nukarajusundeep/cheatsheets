@@ -1,11 +1,13 @@
 # Fly-Cli Cheat sheet
 
-concourse login
+#### Concourse Login
 
-*To default team*
+---
+
+To default team
 
 ```fly -t <aliasname> login -c <concourse-url>```
 
-*To specific team*
+To specific team
 
 ```fly -t <aliasname> login -c <concourse-url> -n <team_name>```
