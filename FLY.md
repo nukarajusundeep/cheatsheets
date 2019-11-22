@@ -1,7 +1,6 @@
 # Fly-Cli Cheat sheet
 
-#### Concourse Login
-
+Concourse Login
 ---
 
 To default team
